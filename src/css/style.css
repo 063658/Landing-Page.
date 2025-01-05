@@ -23,7 +23,7 @@ body {
 }
 
 .header .header-container {
-    background-color: red;
+    background-color: coral;
     display: flex;
     padding: 20px 40px;
     justify-content: space-between;
